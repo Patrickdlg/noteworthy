@@ -18,7 +18,7 @@ cryptography==2.9
 daemonize==2.5.0
 decorator==4.4.2
 distro==1.5.0
-Django==3.0.5
+Django==3.0.7
 docker==4.2.0
 docutils==0.16
 frozendict==1.2
