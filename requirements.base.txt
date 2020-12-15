@@ -20,3 +20,4 @@ matrix-synapse==1.20.1
 matrix-nio==0.10.0
 python-daemon==2.2.4
 lockfile==0.12.2
+pynacl==1.4.0
